@@ -1,4 +1,4 @@
-<h1>Pricing Plan </h1>
+<h1>Pricing Plan - Exercise </h1>
 
 <h2>Description</h2>
 A pricing plan exercise to practice flexbox.
